@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །གནས་ལུགས་རྫོགས་པ་ཆེན་པོའི་ཁྲིད་ཡིག་ཡང་ཟབ་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
+  sku: KS-SP-06
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: The Wish-Fulfilling Gem:A Most Profound Instruction on the Great Perfection
+    bo: གནས་ལུགས་རྫོགས་པ་ཆེན་པོའི་ཁྲིད་ཡིག་ཡང་ཟབ་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Se Phakchok Series–  Book 6
+    bo: སྲས་འཕགས་མཆོག།–  དེབ། ༦
+  author:
+    en: Authors:Phakchok Dorje
+    bo: འཕགས་མཆོག་རྡོ་རྗེ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-SP-06
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-SP-06.epub
+  description:
+    en: ''
+    bo: ''
