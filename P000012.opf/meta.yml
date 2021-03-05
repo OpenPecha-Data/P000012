@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000012
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གནས་ལུགས་རྫོགས་པ་ཆེན་པོའི་ཁྲིད་ཡིག་ཡང་ཟབ་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
-  sku: KS-SP-06
   layers:
   - book_title
   - author
   - quotation
   - sabche
   - yigchung
+  id: KS-SP-06
 web_metadata:
   title:
     en: The Wish-Fulfilling Gem:A Most Profound Instruction on the Great Perfection
